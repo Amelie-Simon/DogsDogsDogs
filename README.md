@@ -6,7 +6,7 @@ Pratique Créative de l'Objet Artistique Numérique - Proof of concept (Stratum 
 
 The repository contains two code files : one node.js file and one arduino file. The arduino code works with an Arduino Mega2650 (or Uno) and an Ethernet Shield.
 
-You can also find a video demo of the project in this repository.
+You can also find a video demo of the project [here](https://www.youtube.com/watch?v=vyIgGuk-BpE).
 
 And of course, a picture of a dog from the [Dog API](https://dog.ceo/dog-api/).
 
